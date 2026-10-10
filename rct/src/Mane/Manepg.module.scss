@@ -4,6 +4,7 @@
     background-image: url(../assets/bod.png);
     justify-content: center;
     display: flex;
+<<<<<<< HEAD
     align-items: end;
     .text{
         width: 50%;
@@ -22,5 +23,14 @@
         position: relative;
         bottom: 10px;
         background-image: url(../assets/tower.png);
+=======
+    .text{
+        width: 50%;
+        height: 100%;
+    }
+    .img{
+        width: 50%;
+        height: 100%    ;
+>>>>>>> f97d31c1d96089df296b796421757249ae31e810
     }
 }
